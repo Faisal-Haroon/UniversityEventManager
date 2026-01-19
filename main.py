@@ -42,7 +42,7 @@ ctk.CTkLabel(
 # MAIN AREA
 main_area = ctk.CTkFrame(
     app,
-    fg_color="#111827"   # dark background but text visible
+    fg_color="#111827"   
 )
 main_area.pack(side="right", expand=True, fill="both")
 
