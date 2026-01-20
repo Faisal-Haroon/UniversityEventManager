@@ -134,8 +134,8 @@ python main.py
 
 ## 👨‍💻 Developed By
 
-Abdul Samad
-Faisal Haroon 
-Muhammad Talha
-M Usman
-Tooba Zahid
+- Abdul Samad
+- Faisal Haroon 
+- Muhammad Talha
+- M Usman
+- Tooba Zahid
